@@ -1,4 +1,5 @@
 # WRU
+![WRU](https://raw.githubusercontent.com/AhmedBHameed/WRU/master/src/assets/image/WRU-app.gif)
 Where are you? is a simple map services application based on Google Map API
 
 WRU is a demonstrate of how to share location between group of people.
