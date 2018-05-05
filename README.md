@@ -1,7 +1,15 @@
 # WRU
 Where are you? is a simple map services application based on Google Map API
-WRU demonstrate how to share location between group of people.
+
+WRU is a demonstrate of how to share location between group of people.
 It has the ability to find the shortest path between two points.
+
+Note: Sharing here is not private, every one will see you marker since the app is open for all.
+If you want to make it private then it is your time to learn how to do that your self.
+
+## What is back-end here?
+
+I used my own back-end framework called [Nodeyes](https://github.com/AhmedBHameed/Nodeys).
 
 ## [Demo](https://nodeys.herokuapp.com/whereareyou)
 
