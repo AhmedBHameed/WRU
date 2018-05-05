@@ -18,9 +18,13 @@ I used my own back-end framework called [Nodeyes](https://github.com/AhmedBHamee
 1. Take a copy of the repository.
 2. run
     ```
-    npm install
+    npm install // Install all necessary dependancies required for the app.
     ```
-to install all dependancies required for the app.
+3. This app based on Webpack. To run this application you have to install nodejs then use
+    ```
+    npm run server
+    ```
+4. Enjoy.
 
 ### License
 
